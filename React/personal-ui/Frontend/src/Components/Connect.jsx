@@ -21,7 +21,7 @@ export const Connect = () => {
       <div className="flex flex-wrap gap-4 mt-10 justify-center">
 
         <a
-          href="https://drive.google.com/file/d/15IOeu8upcI9Yksq_SrkjYXQCLW3xwUMJ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1b-UjANC5554jjZBYejH2BPNb9msY0Rso/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="h-15 min-w-30 flex items-center justify-center bg-gray-900 text-white px-4 py-2 border border-black rounded-2xl hover:border-red-500 transition-all duration-300"

@@ -24,7 +24,7 @@ export const Page1 = () => {
           </h1>
 
           <p className="text-gray-600 font-normal text-base sm:text-lg md:text-xl mt-6 sm:mt-10 leading-7 sm:leading-8 text-center max-w-3xl mx-auto px-2">
-            A website strategist and designer who spent a decade understanding people before designing for them — now creating digital experiences that make information easier to find, understand, and use.
+            A MERN Stack Developer specializing in React.js, Node.js, Express.js, and MongoDB, with strong expertise in Java, RESTful APIs, and database management — engineering scalable, high-performance web applications through clean architecture, intuitive interfaces, and robust backend solutions..
           </p>
 
           <div className="mt-12 sm:mt-16 md:mt-20 text-3xl sm:text-4xl font-bold flex justify-center">

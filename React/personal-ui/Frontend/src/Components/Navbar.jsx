@@ -25,7 +25,7 @@ export const Navbar = () => {
           <a href="#casestudy" className="hover:text-gray-500 transition">Case Studies</a>
           <a href="#about" className="hover:text-gray-500 transition">About Me</a>
           <a
-            href="https://drive.google.com/file/d/15IOeu8upcI9Yksq_SrkjYXQCLW3xwUMJ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1b-UjANC5554jjZBYejH2BPNb9msY0Rso/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-500 transition"
@@ -59,7 +59,7 @@ export const Navbar = () => {
           <a href="#casestudy" onClick={closeMenu} className="p-3 rounded-xl hover:bg-gray-100 transition">Case Studies</a>
           <a href="#about" onClick={closeMenu} className="p-3 rounded-xl hover:bg-gray-100 transition">About Me</a>
           <a
-            href="https://drive.google.com/file/d/15IOeu8upcI9Yksq_SrkjYXQCLW3xwUMJ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1b-UjANC5554jjZBYejH2BPNb9msY0Rso/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             onClick={closeMenu}
